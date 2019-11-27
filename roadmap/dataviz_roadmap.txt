@@ -1,0 +1,34 @@
+﻿Olympic Dataviz
+
+
+=======================================================================
+
+
+Thesis -
+
+
+My intent is to show how Canada has done compared to other countries in the Olympics, I also want to show how Canada has improved or declined throughout the history of the olympics for both male and female athletes.
+
+
+Steps to take  - 
+
+
+* Create Github repository
+
+
+* Create a thesis and roadmap to plan out the project
+
+
+* Make a mockup of the website to show where everything will go
+
+
+* Use photoshop to create the design of the website
+
+
+* Create the python code for the graphs and charts that will be used in the website
+
+
+* Write the HTML and CSS for the website and fill the content in properly
+
+
+* Push all files up to Guthub and merge them with the master branch
